@@ -1,4 +1,9 @@
 {
     "elementor-pro": "https://www.mediafire.com/file/wx1e9jsw0pajwa0/elementor-pro-3.21.3.zip/file",
-    "Jet Engine": "https://drive.usercontent.google.com/u/0/uc?id=1nmdP-tE4tIWcTaOcSGGnRmU5_3MUMKhC&export=download"
+    "Jet Engine": "https://github.com/ricagui/plugin-repo/blob/d52b989e240f6c4cd7e7605538144e1a5b9fe30a/jet-engine/jet-engine.zip",
+    "Jet Trim Call Back": "https://github.com/ricagui/plugin-repo/blob/d52b989e240f6c4cd7e7605538144e1a5b9fe30a/jet-engine/jet-engine-trim-callback.zip",
+    "Jet Post Expiration Period": "https://github.com/ricagui/plugin-repo/blob/d52b989e240f6c4cd7e7605538144e1a5b9fe30a/jet-engine/jet-engine-post-expiration-period.zip",
+    "Jet Dynamic Tables Module": "https://github.com/ricagui/plugin-repo/blob/d52b989e240f6c4cd7e7605538144e1a5b9fe30a/jet-engine/jet-engine-dynamic-tables-module.zip",
+    "Jet Dynamic Charts Module": "https://github.com/ricagui/plugin-repo/blob/d52b989e240f6c4cd7e7605538144e1a5b9fe30a/jet-engine/jet-engine-dynamic-charts-module.zip",
+    "Custom Visibility Conditions": "https://github.com/ricagui/plugin-repo/blob/d52b989e240f6c4cd7e7605538144e1a5b9fe30a/jet-engine/jet-engine-custom-visibility-conditions.zip"
 }
