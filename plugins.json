@@ -1,9 +1,9 @@
 {
-    "Elementor Pro": "https://github.com/ricagui/plugin-repo/blob/main/elementor-pro/elementor-pro.zip",
-    "Jet Engine": "https://github.com/ricagui/plugin-repo/blob/d52b989e240f6c4cd7e7605538144e1a5b9fe30a/jet-engine/jet-engine.zip",
-    "Jet Trim Call Back": "https://github.com/ricagui/plugin-repo/blob/d52b989e240f6c4cd7e7605538144e1a5b9fe30a/jet-engine/jet-engine-trim-callback.zip",
-    "Jet Post Expiration Period": "https://github.com/ricagui/plugin-repo/blob/d52b989e240f6c4cd7e7605538144e1a5b9fe30a/jet-engine/jet-engine-post-expiration-period.zip",
-    "Jet Dynamic Tables Module": "https://github.com/ricagui/plugin-repo/blob/d52b989e240f6c4cd7e7605538144e1a5b9fe30a/jet-engine/jet-engine-dynamic-tables-module.zip",
-    "Jet Dynamic Charts Module": "https://github.com/ricagui/plugin-repo/blob/d52b989e240f6c4cd7e7605538144e1a5b9fe30a/jet-engine/jet-engine-dynamic-charts-module.zip",
-    "Custom Visibility Conditions": "https://github.com/ricagui/plugin-repo/blob/d52b989e240f6c4cd7e7605538144e1a5b9fe30a/jet-engine/jet-engine-custom-visibility-conditions.zip"
+    "Elementor Pro": "https://raw.githubusercontent.com/ricagui/plugin-repo/main/elementor-pro/elementor-pro.zip",
+    "Jet Engine": "https://raw.githubusercontent.com/ricagui/plugin-repo/main/jet-engine/jet-engine.zip",
+    "Jet Trim Call Back": "https://raw.githubusercontent.com/ricagui/plugin-repo/main/jet-engine/jet-engine-trim-callback.zip",
+    "Jet Post Expiration Period": "https://raw.githubusercontent.com/ricagui/plugin-repo/main/jet-engine/jet-engine-post-expiration-period.zip",
+    "Jet Dynamic Tables Module": "https://raw.githubusercontent.com/ricagui/plugin-repo/main/jet-engine/jet-engine-dynamic-tables-module.zip",
+    "Jet Dynamic Charts Module": "https://raw.githubusercontent.com/ricagui/plugin-repo/main/jet-engine/jet-engine-dynamic-charts-module.zip",
+    "Custom Visibility Conditions": "https://raw.githubusercontent.com/ricagui/plugin-repo/main/jet-engine/jet-engine-custom-visibility-conditions.zip"
 }
