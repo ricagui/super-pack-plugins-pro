@@ -1,35 +1,27 @@
 {
     "Super Pack Plugins Pro": {
         "url": "https://github.com/ricagui/plugin-repo/raw/master/super-pack-plugins-pro.zip",
-        "version": "1.1.0",
-        "line": 1
+        "version": "1.1.0"
     },
     "Elementor Pro": {
-        "url": "https://github.com/ricagui/plugin-repo/raw/master/elementor-pro/elementor-pro.zip",
-        "line": 2
+        "url": "https://github.com/ricagui/plugin-repo/raw/master/elementor-pro/elementor-pro.zip"
     },
     "Jet Engine": {
-        "url": "https://github.com/ricagui/plugin-repo/raw/master/jet-engine/jet-engine.zip",
-        "line": 3
+        "url": "https://github.com/ricagui/plugin-repo/raw/master/jet-engine/jet-engine.zip"
     },
     "External Modules Jet Trim Call Back": {
-        "url": "https://github.com/ricagui/plugin-repo/raw/master/jet-engine/jet-engine-trim-callback.zip",
-        "line": 4
+        "url": "https://github.com/ricagui/plugin-repo/raw/master/jet-engine/jet-engine-trim-callback.zip"
     },
     "External Modules Jet Post Expiration Period": {
-        "url": "https://github.com/ricagui/plugin-repo/raw/master/jet-engine/jet-engine-post-expiration-period.zip",
-        "line": 5
+        "url": "https://github.com/ricagui/plugin-repo/raw/master/jet-engine/jet-engine-post-expiration-period.zip"
     },
     "External Modules Jet Dynamic Tables Module": {
-        "url": "https://github.com/ricagui/plugin-repo/raw/master/jet-engine/jet-engine-dynamic-tables-module.zip",
-        "line": 6
+        "url": "https://github.com/ricagui/plugin-repo/raw/master/jet-engine/jet-engine-dynamic-tables-module.zip"
     },
     "External Modules Jet Dynamic Charts Module": {
-        "url": "https://github.com/ricagui/plugin-repo/raw/master/jet-engine/jet-engine-dynamic-charts-module.zip",
-        "line": 7
+        "url": "https://github.com/ricagui/plugin-repo/raw/master/jet-engine/jet-engine-dynamic-charts-module.zip"
     },
     "External Modules Jet Custom Visibility Conditions": {
-        "url": "https://github.com/ricagui/plugin-repo/raw/master/jet-engine/jet-engine-custom-visibility-conditions.zip",
-        "line": 8
+        "url": "https://github.com/ricagui/plugin-repo/raw/master/jet-engine/jet-engine-custom-visibility-conditions.zip"
     }
 }
