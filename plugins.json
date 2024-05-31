@@ -1,27 +1,98 @@
 {
     "Super Pack Plugins Pro": {
         "url": "https://github.com/ricagui/plugin-repo/raw/master/super-pack-plugins-pro.zip",
-        "version": "1.1.0"
+        "version": "1.2.0"
     },
     "Elementor Pro": {
-        "url": "https://github.com/ricagui/plugin-repo/raw/master/elementor-pro/elementor-pro.zip"
+        "url": "https://github.com/ricagui/plugin-repo/raw/master/elementor-pro/elementor-pro.zip",
+        "version": "3.21.3"
     },
     "Jet Engine": {
-        "url": "https://github.com/ricagui/plugin-repo/raw/master/jet-engine/jet-engine.zip"
+        "url": "https://github.com/ricagui/plugin-repo/raw/master/jet-engine/jet-engine.zip",
+        "messages": [
+            "Ao clicar em instalar, aguarde aparece o plugin instalado na tela de Plugin, após isso, só ativar, sempre que precisar atualizar, só clicar em instalar aqui nesta página mesmo",
+            "Instale o JetEngine, vá para seção Crocoblock e insira a chave (Copia e cola): 99cb8d8fc1c335448d8c46aadea2d759"
+        ]
     },
-    "External Modules Jet Trim Call Back": {
+    "Jet Trim Call Back": {
         "url": "https://github.com/ricagui/plugin-repo/raw/master/jet-engine/jet-engine-trim-callback.zip"
     },
-    "External Modules Jet Post Expiration Period": {
+    "Jet Post Expiration Period": {
         "url": "https://github.com/ricagui/plugin-repo/raw/master/jet-engine/jet-engine-post-expiration-period.zip"
     },
-    "External Modules Jet Dynamic Tables Module": {
+    "Jet Dynamic Tables Module": {
         "url": "https://github.com/ricagui/plugin-repo/raw/master/jet-engine/jet-engine-dynamic-tables-module.zip"
     },
-    "External Modules Jet Dynamic Charts Module": {
+    "Jet Dynamic Charts Module": {
         "url": "https://github.com/ricagui/plugin-repo/raw/master/jet-engine/jet-engine-dynamic-charts-module.zip"
     },
-    "External Modules Jet Custom Visibility Conditions": {
+    "Jet Custom Visibility Conditions": {
         "url": "https://github.com/ricagui/plugin-repo/raw/master/jet-engine/jet-engine-custom-visibility-conditions.zip"
+    },
+    "Próximo Plugin 1": {
+        "url": ""
+    },
+    "Próximo Plugin 2": {
+        "url": ""
+    },
+    "Próximo Plugin 3": {
+        "url": ""
+    },
+    "Próximo Plugin 4": {
+        "url": ""
+    },
+    "Próximo Plugin 5": {
+        "url": ""
+    },
+    "Próximo Plugin 6": {
+        "url": ""
+    },
+    "Próximo Plugin 7": {
+        "url": ""
+    },
+    "Próximo Plugin 8": {
+        "url": ""
+    },
+    "Próximo Plugin 9": {
+        "url": ""
+    },
+    "Próximo Plugin 10": {
+        "url": ""
+    },
+    "Próximo Plugin 11": {
+        "url": ""
+    },
+    "Próximo Plugin 12": {
+        "url": ""
+    },
+    "Próximo Plugin 13": {
+        "url": ""
+    },
+    "Próximo Plugin 14": {
+        "url": ""
+    },
+    "Próximo Plugin 15": {
+        "url": ""
+    },
+    "Próximo Plugin 16": {
+        "url": ""
+    },
+    "Próximo Plugin 17": {
+        "url": ""
+    },
+    "Próximo Plugin 18": {
+        "url": ""
+    },
+    "Próximo Plugin 19": {
+        "url": ""
+    },
+    "Próximo Plugin 20": {
+        "url": ""
+    },
+    "Próximo Plugin 21": {
+        "url": ""
+    },
+    "Próximo Plugin 22": {
+        "url": ""
     }
 }
