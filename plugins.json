@@ -1,11 +1,9 @@
 {
     "Super Pack Plugins Pro": {
-        "url": "https:\/\/github.com\/ricagui\/plugin-repo\/raw\/master\/super-pack-plugins-pro.zip",
-        "version": "1.1.0"
+        "url": "https:\/\/github.com\/ricagui\/plugin-repo\/raw\/master\/super-pack-plugins-pro.zip"
     },
     "Elementor Pro": {
-        "url": "https:\/\/github.com\/ricagui\/plugin-repo\/raw\/master\/elementor-pro\/elementor-pro.zip",
-        "version": "3.21.3"
+        "url": "https:\/\/github.com\/ricagui\/plugin-repo\/raw\/master\/elementor-pro\/elementor-pro.zip"
     },
     "Jet Engine": {
         "url": "https:\/\/github.com\/ricagui\/plugin-repo\/raw\/master\/jet-engine\/jet-engine.zip"
@@ -92,15 +90,12 @@
         "url": ""
     },
     "0": {
-        "name": "Elementor Pro",
         "url": "https:\/\/www.mediafire.com\/file\/zemvujqdnsb7cdi\/elementor.3.21.8.zip\/file"
     },
     "1": {
-        "name": "Elementor",
         "url": "https:\/\/www.mediafire.com\/file\/s6l7xppzmwr9e7h\/actions-pack-premium.zip\/file"
     },
     "2": {
-        "name": "Teste",
         "url": "https:\/\/github.com\/ricagui\/plugin-repo\/raw\/master\/elementor-pro\/elementor-pro.zip"
     }
 }
