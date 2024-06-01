@@ -1,23 +1,29 @@
 {
+    "Super Pack Plugins Pro": {
+        "url": "https:\/\/github.com\/ricagui\/plugin-repo\/raw\/master\/super-pack-plugins-pro.zip"
+    },
     "Elementor Pro": {
-        "url": "https://github.com/ricagui/plugin-repo/raw/master/elementor-pro/elementor-pro.zip"
+        "url": "https:\/\/github.com\/ricagui\/plugin-repo\/raw\/master\/elementor-pro\/elementor-pro.zip"
     },
     "Jet Engine": {
-        "url": "https://github.com/ricagui/plugin-repo/raw/master/jet-engine/jet-engine.zip"
+        "url": "https:\/\/github.com\/ricagui\/plugin-repo\/raw\/master\/jet-engine\/jet-engine.zip"
     },
     "Jet Trim Call Back": {
-        "url": "https://github.com/ricagui/plugin-repo/raw/master/jet-engine/jet-engine-trim-callback.zip"
+        "url": "https:\/\/github.com\/ricagui\/plugin-repo\/raw\/master\/jet-engine\/jet-engine-trim-callback.zip"
     },
     "Jet Post Expiration Period": {
-        "url": "https://github.com/ricagui/plugin-repo/raw/master/jet-engine/jet-engine-post-expiration-period.zip"
+        "url": "https:\/\/github.com\/ricagui\/plugin-repo\/raw\/master\/jet-engine\/jet-engine-post-expiration-period.zip"
     },
     "Jet Dynamic Tables Module": {
-        "url": "https://github.com/ricagui/plugin-repo/raw/master/jet-engine/jet-engine-dynamic-tables-module.zip"
+        "url": "https:\/\/github.com\/ricagui\/plugin-repo\/raw\/master\/jet-engine\/jet-engine-dynamic-tables-module.zip"
     },
     "Jet Dynamic Charts Module": {
-        "url": "https://github.com/ricagui/plugin-repo/raw/master/jet-engine/jet-engine-dynamic-charts-module.zip"
+        "url": "https:\/\/github.com\/ricagui\/plugin-repo\/raw\/master\/jet-engine\/jet-engine-dynamic-charts-module.zip"
     },
     "Jet Custom Visibility Conditions": {
-        "url": "https://github.com/ricagui/plugin-repo/raw/master/jet-engine/jet-engine-custom-visibility-conditions.zip"
+        "url": "https:\/\/github.com\/ricagui\/plugin-repo\/raw\/master\/jet-engine\/jet-engine-custom-visibility-conditions.zip"
+    },
+    "Elementor": {
+        "url": "https:\/\/www.mediafire.com\/file\/zemvujqdnsb7cdi\/elementor.3.21.8.zip\/file"
     }
 }
